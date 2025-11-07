@@ -40,6 +40,7 @@ So on **Day 365**, pause the dashboard.
 Let your decisions learn something new.  
 
 ---
+<img width="1536" height="1024" alt="ChatGPT Image Nov 6, 2025, 10_02_11 AM" src="https://github.com/user-attachments/assets/6bd70dc8-f213-4368-9e95-e2c90cac63fc" />
 
 👤 *Written & visualized by KalyanDataGuy*  
 *(Part of the 364 / 365 DataLoop Series — Data + Decisions + Renewal)*  
